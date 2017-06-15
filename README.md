@@ -1,2 +1,2 @@
 # Cajero
-Cajero automatico Andrea Barreda
+Usa tu cajero automatico como Cajasur.
